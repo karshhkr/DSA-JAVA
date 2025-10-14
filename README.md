@@ -16,22 +16,35 @@ This series aims to make Java + DSA crystal clear through practical examples, we
 
 Each topic folder contains:
 .✅ Well-explained Java programs
+
 .🧩 Problem statements with solutions
+
 .📈 Time & Space complexity analysis
 
 💡 Optimized approaches for interview preparation
+
 🧭 Table of Contents
+
 🧠 Data Structures Covered
 
 .Arrays & ArrayList
+
 .Sorting(BubbleSort,SelectionSort,MergeSort)
+
 .Linked List (Singly, Doubly, Circular)
+
 .Stack
+
 .Queue (Normal, Circular, Priority)
+
 .HashMap & HashSet
+
 .Trees (Binary, BST, AVL)
+
 .Graphs (Adjacency List, BFS, DFS, Shortest Path)
+
 .Heaps & Priority Queues
+
 .Tries & Disjoint Sets
 
 
