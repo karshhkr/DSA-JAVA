@@ -1,5 +1,5 @@
 Welcome to the Java DSA Series — a complete journey to master Data Structures and Algorithms in Java from beginner to advanced level.
-This repository is built to help students and aspiring developers strengthen their problem-solving and Java fundamentals, covering Core Java Concepts, Data Structures, Algorithms, and Interview Questions — all in one place.
+This repository is built to help students and aspiring developers strengthen their problem-solving and Java fundamentals, covering  Data Structures, Algorithms — all in one place.
 
 🌐 Connect With Me
 
